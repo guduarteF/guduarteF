@@ -3,10 +3,10 @@
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://union-four.itch.io)
 
 Entusiasta de tecnologia , programação e desenvolvimento de Jogos. 
-Graduado em Jogos Digitais pela universidade Estácio de Sá.
+Graduado em Jogos Digitais.
 3 anos de experiência em projetos com a Unity e C#.
 Desenvolvo Automações com Python
-Atualmente focado no Backend ( .NET Core)
+Atualmente focado no Backend (ASP.NET Core MVC)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
