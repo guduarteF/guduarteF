@@ -17,12 +17,9 @@ Atualmente focado no Backend (ASP.NET Core MVC)
 - [Dia do Fogo](https://union-four.itch.io/dia-do-fogo)<br/>
 
 ## Tecnologias que eu uso no meu dia 👨🏻‍💻
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />   
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,dotnet,python,html,css,js,)](https://skillicons.dev)
+
 <br/>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=guduarteF&show_icons=true&theme=tokyonight)
