@@ -5,8 +5,8 @@
 Entusiasta de tecnologia , programação e desenvolvimento de Jogos. 
 Graduado em Jogos Digitais.
 3 anos de experiência em projetos com a Unity e C#.
-Desenvolvo Automações com Python
-Atualmente focado no Backend (ASP.NET Core MVC)
+Desenvolvo Automações com Python.
+Atualmente focado no Backend (ASP.NET Core MVC).
 
 ## Jogos Desenvolvidos 🕹️
 
