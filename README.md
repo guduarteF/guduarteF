@@ -1,4 +1,7 @@
 ### Olá ! Eu sou o Gustavo Duarte 👋 
+
+![Screenshot](kazpHs.png)
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-4076b1175/)
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://union-four.itch.io)
 
