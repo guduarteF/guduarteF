@@ -23,7 +23,7 @@ Atualmente focado no Backend (ASP.NET Core MVC).
 <br/>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=guduarteF&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guduarteF&hide=hlsl,glsl,shaderlab&langs_count=8&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guduartef&layout=compact&hide=shaderlab,glsl,hlsl&size_weight=0&count_weight=0.1)
 
 
 <br/>
