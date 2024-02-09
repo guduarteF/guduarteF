@@ -4,6 +4,8 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-4076b1175/)
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://union-four.itch.io)
+[![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]([https://union-four.itch.io](https://b4rb4br4nc4.itch.io))
+
 
 Entusiasta de tecnologia , programação e desenvolvimento de Jogos. 
 Graduado em Jogos Digitais.
