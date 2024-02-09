@@ -15,6 +15,7 @@ Atualmente focado no Backend (ASP.NET Core MVC).
 
 ## Jogos Desenvolvidos 🕹️
 
+- [GusGunGame](https://b4rb4br4nc4.itch.io/ggg-gusgungame)<br/>
 - [Cangaceiro](https://union-four.itch.io/o-cangaceiro)<br/>
 - [MetroVirus](https://union-four.itch.io/metrovrus)<br/>
 - [Bombermano](https://b4rb4br4nc4.itch.io/bombermano)<br/>
