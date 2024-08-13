@@ -4,12 +4,9 @@
 
 Desenvolvedor Backend com background em desenvolvimento de games .
 
-
-
-
 ## Tecnologias que eu uso no meu dia 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,html,css,js,bootstrap,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,html,css,js,bootstrap,postman,unity)](https://skillicons.dev)
 
 <br/>
 
