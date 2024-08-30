@@ -17,12 +17,7 @@ Desenvolvedor Backend com background em desenvolvimento de games .
 
 ## Jogos Desenvolvidos 🕹️
 
-- [GusGunGame](https://b4rb4br4nc4.itch.io/ggg-gusgungame)<br/>
-- [Cangaceiro](https://union-four.itch.io/o-cangaceiro)<br/>
-- [MetroVirus](https://union-four.itch.io/metrovrus)<br/>
-- [Bombermano](https://b4rb4br4nc4.itch.io/bombermano)<br/>
-- [MazeGunner](https://union-four.itch.io/mazegunner)<br/>
-- [Dia do Fogo](https://union-four.itch.io/dia-do-fogo)<br/>
+1. [GusGunGame](https://b4rb4br4nc4.itch.io/ggg-gusgungame) 2. [Cangaceiro](https://union-four.itch.io/o-cangaceiro) 3. [MetroVirus](https://union-four.itch.io/metrovrus) 4. [Bombermano](https://b4rb4br4nc4.itch.io/bombermano) 5. [MazeGunner](https://union-four.itch.io/mazegunner) 6. [Dia do Fogo](https://union-four.itch.io/dia-do-fogo)
 
 
 
