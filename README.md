@@ -6,7 +6,7 @@ Desenvolvedor Backend com background em desenvolvimento de games .
 
 ## Tecnologias usadas em projetos 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,html,css,js,bootstrap,postman,unity,react,vite,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,html,css,js,bootstrap,postman,unity,react,vite,nodejs,tailwindcss)](https://skillicons.dev)
 
 <br/>
 
