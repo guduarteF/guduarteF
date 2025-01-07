@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-4076b1175/)
 
-Desenvolvedor Backend com background em desenvolvimento de games .
+Desenvolvedor FullStack com background em desenvolvimento de games .
 
 ## Tecnologias utilizadas em projetos 👨🏻‍💻
 
