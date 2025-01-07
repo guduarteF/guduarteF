@@ -5,8 +5,10 @@
 Desenvolvedor FullStack com background em desenvolvimento de games .
 
 ## Tecnologias utilizadas em projetos 👨🏻‍💻
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,html,css,js,bootstrap,postman,unity,react,vite,nodejs,tailwindcss)](https://skillicons.dev)
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,tailwindcss)](https://skillicons.dev)
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,postman)](https://skillicons.dev)
 
 <br/>
 
@@ -15,7 +17,7 @@ Desenvolvedor FullStack com background em desenvolvimento de games .
 
 <br/>
 
-## Jogos Desenvolvidos 🕹️
+## 🕹️ Jogos Desenvolvidos [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 1. [GusGunGame](https://b4rb4br4nc4.itch.io/ggg-gusgungame) 2. [Cangaceiro](https://union-four.itch.io/o-cangaceiro) 3. [MetroVirus](https://union-four.itch.io/metrovrus) 4. [Bombermano](https://b4rb4br4nc4.itch.io/bombermano) 5. [MazeGunner](https://union-four.itch.io/mazegunner) 6. [Dia do Fogo](https://union-four.itch.io/dia-do-fogo)
 
