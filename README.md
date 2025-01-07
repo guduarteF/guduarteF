@@ -6,7 +6,7 @@ Desenvolvedor FullStack com background em desenvolvimento de games .
 
 ## Tecnologias utilizadas em projetos 👨🏻‍💻
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mui,react,vite,nodejs,tailwindcss)](https://skillicons.dev)
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,postman)](https://skillicons.dev)
 
