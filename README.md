@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Gustavo Duarte 👋 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-4076b1175/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-ferreira/)
 
 Desenvolvedor FullStack com background em desenvolvimento de games .
 
