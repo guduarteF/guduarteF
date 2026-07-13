@@ -2,14 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-ferreira/)
 
-Desenvolvedor FullStack com background em desenvolvimento de games .
-
-## Tecnologias utilizadas em projetos 👨🏻‍💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guduartef&layout=compact&hide=shaderlab,glsl,hlsl&size_weight=0&count_weight=0.1)
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mui,react,vite,nodejs,tailwindcss)](https://skillicons.dev)
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,python,django,selenium,postman)](https://skillicons.dev)
+Desenvolvedor de Jogos .
 
 <br/>
 
